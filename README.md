@@ -9,7 +9,5 @@ Well, your code interpter goes line by line. So it is better for you to add the 
 3. ECMAScript: ECMA is a company that decides the standards for programming lanugages, especialy for scriptting languages. Babel makes you use the old formats of JS and you can use it to interpret your code.
 
 
-
-
 #### How to color in your console method?
 Add %c before the word you want to style, then add the styling in same squares but different "".
